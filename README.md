@@ -6,5 +6,4 @@
 ### 环境
 python3.6.7+opencv3.4.5+mac
 ### 运行结果示意
-![2.jpg](https://github.com/zhangqizky/find-TextureRegions-in-Images/blob/master/2.jpg)
 
